@@ -1,0 +1,15 @@
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\bin\Debug\net6.0\ChatService.Domain.exe
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\bin\Debug\net6.0\ChatService.Domain.deps.json
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\bin\Debug\net6.0\ChatService.Domain.runtimeconfig.json
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\bin\Debug\net6.0\ChatService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\bin\Debug\net6.0\ChatService.Domain.pdb
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.csproj.AssemblyReference.cache
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.AssemblyInfoInputs.cache
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.AssemblyInfo.cs
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.csproj.CoreCompileInputs.cache
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\refint\ChatService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.pdb
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ChatService.Domain.genruntimeconfig.cache
+E:\项目\Wei-Galaxy\Galaxy-H\ChatService.Domain\obj\Debug\net6.0\ref\ChatService.Domain.dll

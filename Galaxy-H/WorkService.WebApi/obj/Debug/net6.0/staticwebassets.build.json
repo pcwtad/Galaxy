@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "60uaHm8FSPoz1nLvo62q3mfr/1CPP2bhW1Z+eRlpL+8=",
+  "Source": "WorkService.WebApi",
+  "BasePath": "_content/WorkService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

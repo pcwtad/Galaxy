@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V3pF6vMHFfi5k9klWzJmbs4uYUM8PcJo1os8ZYIs988=",
+  "Source": "CommentService.WebApi",
+  "BasePath": "_content/CommentService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

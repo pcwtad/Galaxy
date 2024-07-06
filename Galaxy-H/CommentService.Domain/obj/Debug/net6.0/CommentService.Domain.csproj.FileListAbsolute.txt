@@ -1,0 +1,15 @@
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\bin\Debug\net6.0\CommentService.Domain.exe
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\bin\Debug\net6.0\CommentService.Domain.deps.json
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\bin\Debug\net6.0\CommentService.Domain.runtimeconfig.json
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\bin\Debug\net6.0\CommentService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\bin\Debug\net6.0\CommentService.Domain.pdb
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.csproj.AssemblyReference.cache
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.AssemblyInfoInputs.cache
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.AssemblyInfo.cs
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.csproj.CoreCompileInputs.cache
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\refint\CommentService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.pdb
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\CommentService.Domain.genruntimeconfig.cache
+E:\项目\Wei-Galaxy\Galaxy-H\CommentService.Domain\obj\Debug\net6.0\ref\CommentService.Domain.dll

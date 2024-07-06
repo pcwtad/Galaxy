@@ -1,0 +1,15 @@
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\bin\Debug\net6.0\WorkService.Domain.exe
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\bin\Debug\net6.0\WorkService.Domain.deps.json
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\bin\Debug\net6.0\WorkService.Domain.runtimeconfig.json
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\bin\Debug\net6.0\WorkService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\bin\Debug\net6.0\WorkService.Domain.pdb
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.csproj.AssemblyReference.cache
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.AssemblyInfoInputs.cache
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.AssemblyInfo.cs
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.csproj.CoreCompileInputs.cache
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\refint\WorkService.Domain.dll
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.pdb
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\WorkService.Domain.genruntimeconfig.cache
+E:\项目\Wei-Galaxy\Galaxy-H\WorkService.Domain\obj\Debug\net6.0\ref\WorkService.Domain.dll

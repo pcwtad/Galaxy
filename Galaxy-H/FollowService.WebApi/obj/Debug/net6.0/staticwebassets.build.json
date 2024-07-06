@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8DrCmCAK3IMQw0c4Zcr7ObKququFgRq4+VKNxQmkW/A=",
+  "Source": "FollowService.WebApi",
+  "BasePath": "_content/FollowService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
